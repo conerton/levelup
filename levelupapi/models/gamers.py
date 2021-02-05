@@ -1,5 +1,5 @@
 from django.db import models
-from .users import User
+from django.contrib.auth.models import User
 
 
 class Gamer(models.Model):
