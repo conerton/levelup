@@ -1,8 +1,8 @@
 
 from django.db import models
 # from django.contrib.auth.models import Events
-from django.contrib.auth.models import Gamer
-from django.contrib.auth.models import Game
+from .gamers import Gamer
+from .games import Game
 
 
 class Event(models.Model):

@@ -1,6 +1,6 @@
 from django.db import models
-from django.contrib.auth.models import Event
-from django.contrib.auth.models import Gamer
+from .events import Event
+from .gamers import Gamer
 
 
 class eventGamer(models.Model):
