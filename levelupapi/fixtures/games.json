@@ -1,0 +1,27 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "tic tac no",
+            "game_type": 1,
+            "number_of_players": 2,
+            "gamer": 1,
+            "description": "THIS MAGIC MOMENT"
+        }
+    },
+        {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "checkers",
+            "game_type": 1,
+            "number_of_players": 2,
+            "gamer": 1,
+            "description": "FUN FUN FUN UNTIL HER DADDY TAKES HER TBIRD AWAY"
+        }
+    }
+]
+
+
+
