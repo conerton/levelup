@@ -3,7 +3,7 @@
         "model": "levelupapi.game",
         "pk": 1,
         "fields": {
-            "title": "tic tac no",
+            "title": "tic tac oh no",
             "game_type": 1,
             "number_of_players": 2,
             "gamer": 1,
